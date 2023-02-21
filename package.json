@@ -1,0 +1,19 @@
+{
+  "name": "airdrop_hunter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@netlify/functions": "^1.4.0",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@uniswap/v2-periphery": "^1.1.0-beta.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2"
+  }
+}
